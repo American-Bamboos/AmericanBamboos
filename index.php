@@ -32,8 +32,7 @@ header("Content-Type: text/html; charset=".$CHARSET);
 	<?php
 	include($SERVER_ROOT.'/includes/header.php');
 	?>
-
-	<div class="w3-container w3-content" style="max-width:1400px;margin-top:80px">
+	<div id="innertext">
 	  <!-- The Grid -->
 	  <div class="w3-row">
 	    <!-- Left Column -->
