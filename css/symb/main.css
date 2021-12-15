@@ -1,5 +1,5 @@
-/* Modify styles within this file to override styles within base.css file 
- * 
+/* Modify styles within this file to override styles within base.css file
+ *
  **/
 body{
 	width: 80%;
@@ -52,6 +52,10 @@ body{
 }
 
 #footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
 }
 
 /*Central div in the middle center table div */
@@ -83,7 +87,7 @@ div.tnimg a{
 
 div.tnimg img{
 
-}	
+}
 
 #cloptiondiv {
 }
@@ -132,7 +136,7 @@ h3{
 	background-position:top;
 	background-color:#c2c2c2;
 }
-#hor_dropdown li{		
+#hor_dropdown li{
 	float:left;
 	position:relative;
 	padding:0;
@@ -189,8 +193,8 @@ h3{
 	background-color:#dcdcdc;
 	z-index:1000;
 }
-#hor_dropdown li:hover ul li a:hover { 
-	background:#999999; 
+#hor_dropdown li:hover ul li a:hover {
+	background:#999999;
 }
 
 #hor_dropdown li ul li ul {
@@ -212,8 +216,8 @@ h3{
 	background-color:#dcdcdc;
 	z-index:1000;
 }
-#hor_dropdown li ul li:hover ul li a:hover { 
-	background:#999999; 
+#hor_dropdown li ul li:hover ul li a:hover {
+	background:#999999;
 }
 
 
