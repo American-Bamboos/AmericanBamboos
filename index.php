@@ -70,10 +70,10 @@ header('Content-Type: text/html; charset=' . $CHARSET);
 					the Americas. One genus (<i>Arundinaria</i>; "cane") with four species is 
 					native to what is now the southeastern continental United States.
 				</p>
-				<h2>Please Pardon Our Pollen!</h2>
+				<!--<h2>Please Pardon Our Pollen!</h2>
 				<p>
 					This site is under active development, please check back for updates.
-				</p>
+				</p>-->
 			</div>
 			<?php
 		}
